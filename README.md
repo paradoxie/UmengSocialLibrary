@@ -23,7 +23,7 @@ Android的分享功能友盟用的蛮多的，一般情况下**自带的分享�
    在module的build.gradle加入
 
         	dependencies {
-        	        compile 'com.github.xzq35110:UmengSocialLibrary:0.1'
+        	        compile 'com.github.xzq35110:UmengSocialLibrary:0.2'
         	}
 >* 3.配置manifest.xml的权限和必要的activity
 
