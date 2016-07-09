@@ -24,4 +24,6 @@ dependencies {
     testCompile 'junit:junit:4.12'
     compile 'com.android.support:appcompat-v7:23.4.0'
     compile project(':sociallibrary')
+//    compile 'com.github.xzq35110:UmengSocialLibrary:2a297b9639'
+
 }
