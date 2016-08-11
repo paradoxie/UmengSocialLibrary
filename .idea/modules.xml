@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/UmengSocialLibrary.iml" filepath="$PROJECT_DIR$/UmengSocialLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UmengSocialLibrary.iml" filepath="$PROJECT_DIR$/UmengSocialLibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sociallibrary/sociallibrary.iml" filepath="$PROJECT_DIR$/sociallibrary/sociallibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/sociallibrary/sociallibrary.iml" filepath="$PROJECT_DIR$/sociallibrary/sociallibrary.iml" />
     </modules>
   </component>
